@@ -1,6 +1,6 @@
 <h1 align=center><b>Apptitude</b></h1>
 
-Downstream/Upstream:
+## Downstream/Upstream:
 
 In water, the direction along the stream is called downstream. And, the direction against the stream is called upstream.
 
