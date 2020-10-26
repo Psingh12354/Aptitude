@@ -125,3 +125,6 @@ Hence 80% is equivalent to 36 liters (no addition of milk is done)
 100% is (36/80)*100 = 45 liters of milk is present in the new mixture
 
 Thus water shall be added= (45 – 36 – 4) = 5 liters of water
+
+**or**
+![](a1)
