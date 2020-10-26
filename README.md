@@ -251,6 +251,8 @@ D) 33/163
 
 Solution
 
+![](
+
 Solution: Option D
 
 ### 17) In how many ways can 6 lottery tickets be distributed among 4 different people if all of the four different people can get any number of tickets?
