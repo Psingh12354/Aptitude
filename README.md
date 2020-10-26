@@ -251,7 +251,7 @@ D) 33/163
 
 Solution
 
-![](
+![](https://github.com/Psingh12354/Apptitude/blob/main/a2.jpg)
 
 Solution: Option D
 
