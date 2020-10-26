@@ -99,3 +99,29 @@ Working 6 hours a day, B can complete the work in 10 days = 6*10 = 60 hours
 = 1/24
 
 Hence, A and B can complete the work in 24 hours which is equal to 3 days.
+
+### 11) A mixture of 40 liters of milk and water contains 10% water. How much water should be added to this so that water may be 20% in the new mixture?
+
+A) 6.5 liters
+
+B) 5 liters
+
+C) 4 liters
+
+D) 7.5 liters
+
+
+
+Solution
+
+Option B
+
+A mixture of 40 liters of milk = 36 liters of Milk and 4 liters of water = 90:10 ratio
+
+Now the new mixture should be in the ratio of 80:20
+
+Hence 80% is equivalent to 36 liters (no addition of milk is done)
+
+100% is (36/80)*100 = 45 liters of milk is present in the new mixture
+
+Thus water shall be added= (45 – 36 – 4) = 5 liters of water
