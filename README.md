@@ -18,7 +18,7 @@ Rate of stream =	1	(a - b) km/hr.
 2
 
 
-### 5) What is the LCM of 147/64 and 30/44?
+### 1) What is the LCM of 147/64 and 30/44?
 
 1) 735/2
 
@@ -44,7 +44,7 @@ HCF (64, 44) = 4
 
 So, the LCM of 147/64 and 30/44 is (LCM of Numerators) / (HCF of Denominators) = 1470 / 4 = 735/2
 
-### 4) A man rows a boat at a speed of 15 mph in still water. Find the speed of the river if it takes her 4 hours 30 minutes to row a boat to a place 30 miles away and return.
+### 2) A man rows a boat at a speed of 15 mph in still water. Find the speed of the river if it takes her 4 hours 30 minutes to row a boat to a place 30 miles away and return.
 
 A) 5 mph
 
@@ -72,7 +72,7 @@ Time taken row 30 miles upstream and 30 miles downstream = 30/(15-x) + 30/(15+x)
 
 x² = 25 or x=5
 
-### 9) Working 5 hours a day, A can Complete a work in 8 days and working 6 hours a day, B can complete the same work in 10 days. Working 8 hours a day, they can jointly complete the work in how many days?
+### 3) Working 5 hours a day, A can Complete a work in 8 days and working 6 hours a day, B can complete the same work in 10 days. Working 8 hours a day, they can jointly complete the work in how many days?
 
 A) 3 days
 
@@ -100,7 +100,7 @@ Working 6 hours a day, B can complete the work in 10 days = 6*10 = 60 hours
 
 Hence, A and B can complete the work in 24 hours which is equal to 3 days.
 
-### 11) A mixture of 40 liters of milk and water contains 10% water. How much water should be added to this so that water may be 20% in the new mixture?
+### 4) A mixture of 40 liters of milk and water contains 10% water. How much water should be added to this so that water may be 20% in the new mixture?
 
 A) 6.5 liters
 
@@ -129,7 +129,7 @@ Thus water shall be added= (45 – 36 – 4) = 5 liters of water
 **or**
 ![](https://github.com/Psingh12354/Apptitude/blob/main/a1.jpg)
 
-### 12) Four different electronic devices make a beep after every 30 minutes, 1 hour, 3/2 hour and 1 hour 45 minutes respectively. All the devices beeped together at 12 noon. They will again beep together at:
+### 5) Four different electronic devices make a beep after every 30 minutes, 1 hour, 3/2 hour and 1 hour 45 minutes respectively. All the devices beeped together at 12 noon. They will again beep together at:
 
 A) 12 midnight
 
@@ -153,7 +153,7 @@ Which means the devices beep together after every 1260 mins = 1260/60 = 21 hours
 
 Hence 12 noon + 21 hours = 9 a.m
 
-### 13) In a 100 m race, A can beat B by 25 m and B can beat C by 4 m. In the same race, A can beat C by?
+### 6) In a 100 m race, A can beat B by 25 m and B can beat C by 4 m. In the same race, A can beat C by?
 
 A) 21 m
 
@@ -183,7 +183,7 @@ So, when A Travels 100 m, C travels 72 m.
 
 Therefore, A beat C by 28 m
 
-### 14) In an examination, 70% of students passed in physics, 65% in chemistry, 27% failed in both subjects. The percentage of students who passed is?
+### 7) In an examination, 70% of students passed in physics, 65% in chemistry, 27% failed in both subjects. The percentage of students who passed is?
 
 A) 62
 
@@ -211,7 +211,7 @@ Percentage of students failed = 35 + 30 – 27
 
 Percentage of students passed = 100 – 38% = 62%
 
-### 15) If 15 oxen or 20 cows can eat the grass of a field in 80 days, then in how many days will 6 oxen and 2 cows eat the same grass?
+### 8) If 15 oxen or 20 cows can eat the grass of a field in 80 days, then in how many days will 6 oxen and 2 cows eat the same grass?
 
 A) 40
 
@@ -237,7 +237,7 @@ y = 20*80/2 = 800 days
 
 Together work will be done in 800*200/(800+200) = 160 days
 
-### 16) Simplify {(3 * 2.333 + 2)/3} / (1/10 of 100 + 4.8181)
+### 9) Simplify {(3 * 2.333 + 2)/3} / (1/10 of 100 + 4.8181)
 
 A) 297/10377
 
@@ -255,7 +255,7 @@ Solution
 
 Solution: Option D
 
-### 17) In how many ways can 6 lottery tickets be distributed among 4 different people if all of the four different people can get any number of tickets?
+### 10) In how many ways can 6 lottery tickets be distributed among 4 different people if all of the four different people can get any number of tickets?
 
 A) 6C4
 
@@ -268,7 +268,7 @@ D) 6^4
 Solution 
 C is correct because all 4 can get 4 ticket one by one
 
-### 19) A salesman has the liberty to sell a hair dryer in his store at a price between Rs. 300 and Rs. 700. Profit earned by selling the hair dryer for Rs. 650 is twice the loss incurred when it is sold for Rs. 350. What is the cost price of the hair dryer?
+### 11) A salesman has the liberty to sell a hair dryer in his store at a price between Rs. 300 and Rs. 700. Profit earned by selling the hair dryer for Rs. 650 is twice the loss incurred when it is sold for Rs. 350. What is the cost price of the hair dryer?
 
 A) 550
 
@@ -296,7 +296,7 @@ Clearly profit is twice the loss incurred.
 
 Hence, Rs 450 is the correct option.
 
-### 20) Ronald and Elan are working on an assignment. Ronald takes 6 hours to type 32 pages on a computer, while Elan takes 5 hours to type 40 pages. How much time will they take, working together on two different computers to type an assignment of 110 pages?
+### 12) Ronald and Elan are working on an assignment. Ronald takes 6 hours to type 32 pages on a computer, while Elan takes 5 hours to type 40 pages. How much time will they take, working together on two different computers to type an assignment of 110 pages?
 
 A) 7 hours 30 minutes
 
@@ -320,7 +320,7 @@ Time needed  to complete the assignment is = (3 x 110)/40 = 33/4 = 8hrs 15mins
 
 Hence, the time required is 8 hrs 15 mins.
 
-### 21) A television manufacturing company has decided to increase the sale to beat the economic slowdown. It decides to reduce the price of television sets by 25% as a result of which the sales increased by 20%. What is the effect on the total revenue of the company?
+### 13) A television manufacturing company has decided to increase the sale to beat the economic slowdown. It decides to reduce the price of television sets by 25% as a result of which the sales increased by 20%. What is the effect on the total revenue of the company?
 
 A) Decreased by 20%
 
@@ -350,7 +350,7 @@ Change in revenue = (10000 – 9000) = Rs.1000 decrease
 
 Hence, the correct option is decrease of 10%.
 
-### 22) Ravi has a bag full of 10 Nestle and 5 Cadbury chocolates. Out of these, he draws two chocolates. What is the probability that he would get at least one Nestle chocolate?
+### 14) Ravi has a bag full of 10 Nestle and 5 Cadbury chocolates. Out of these, he draws two chocolates. What is the probability that he would get at least one Nestle chocolate?
 
 A) 19/21
 
@@ -371,4 +371,120 @@ Probability of getting atleast one nestle chocolate = [(10C1 x 5C1) + 10C2] / 15
 [(10 x 5) + (10 x 9)/2] / [(15 x 14)/2] = 19/21.
 
 Hence, the required probability is 19/21.
+
+### 15) Anil and Ruhi started a business by investing Rs 2000 and Rs 2800 respectively. After 8 months, Anil added Rs 600 and Ruhi added Rs 400. At the same time Teena joined them with Rs 4200. Find the share of Teena if they get a profit of Rs 34,300 after a year.
+A) Rs 7490
+B) Rs 7350
+C) Rs 8250
+D) Rs 8530
+E) None of these
+
+Solution
+Option B
+
+Solution:
+Share of Anil : Share of Ruhi : Share of Teena is
+2000×8 + 2600×4 : 2800×8 + 3200×4 : 4200×4
+33 : 44 : 21
+so share of Teena = 21/(33+44+21) × 34300 = Rs 7350
+
+### 16) A sum of Rs 7000 is deposited in two schemes. One part is deposited in Scheme A which offers 8% rate of interest. Remaining part is invested in Scheme B which offers 10% rate of interest compounded annually. If interest obtained in scheme A after 4 years is Rs 226 more than the interest obtained in scheme B after 2 years, find the part deposited in scheme B.
+A) Rs 3200
+B) Rs 4500
+C) Rs 3800
+D) Rs 3500
+E) Rs 2800
+
+Solution: 
+Option C
+
+Solution:
+Rs 3800
+Solution:
+(7000-x)*8*4/100 = x [ (1 + 10/100)2 – 1] + 226
+70*8*4 – 32x/100 = 21x/100 + 226
+2240 – 226 = 53x/100
+2014 = 53x/100
+So, x = Rs 3800
+
+### 17) A work which is completed by 20 men in 8 days can be completed by 25 women 12 days. 16 men and 10 women start doing the work. After 3 days, they leave. If the remaining work is to be completed in 6 days by x number of men, find x.
+A) 16
+B) 18
+C) 12
+D) 10
+E) 22
+
+Solution:
+Option A
+
+Solution: 
+20 men in 8 days so 16 men in 20 × 8/16 = 10 days and
+25 women in 12 days so 10 women in 25 × 12/10 = 30 days
+So in 3 days, they complete (1/10 + 1/30) × 3 = 2/5
+So remaining work = 1 – 2/5 = 3/5
+20 m 1 work in 8 days and x men 3/5 work in 6 days
+So 20 × 8 × 3/5 = x × 6 × 1
+So, x = 16 men
+
+### 18) There are 140 tickets (numbered 1 to 140) in a bowl. Find the probability of choosing a ticket which bears multiple of either 3 or 7.
+A) 3/5
+B) 2/9
+C) 1/8
+D) 3/7
+E) None of these
+
+Solution: 
+Option D
+
+Solution
+Number of multiples of 3 in 140 = 140/3 = 46
+Number of multiples of 7 in 140 = 140/7 = 20
+Number of multiples of 3×7= 21 in 140 = 140/21 = 6
+So required probability = (46+20 – 6)/140 = 60/140 = 3/7
+
+### 19) Introducing a man, a woman said, "He is the only son of the mother of my mother." How is the woman related to the man?
+
+A.	Mother
+B.	Sister
+C.	Niece
+D.	Maternal aunt
+Solution
+C
+
+### 20) There are six persons A. B, C, D, E and F. C is the sister of F. B is the brother of E's husband. D is the father of A and grandfather of F. There are two fathers, three brothers and a mother in the group. Who is the mother ?
+
+A) A	
+B) B
+C) C	
+D) E 
+
+Solution:
+E
+
+Solution:
+D is father of A and grandfather of F. So, A is father of F. 
+
+Thus. D and A are the two fathers. C is the sister of F So. C is the daughter of A. 
+
+Since there is only one mother, it is evident that E is the wife of A and hence the mother of C and F. 
+
+So, B is brother of A There are three brothers. So. F is the brother of C. 
+
+ Clearly, A is E's Husband.
+ 
+ ### 21) Pointing to a girl in the photograph, Amar said, "Her mother's brother is the only son of my mother's father." How is the girl's mother related to Amar ? 
+ 
+A) Mother
+B) Sister
+C) Aunt 	
+D) Grandmother
+
+Solution:
+C
+
+Solution:
+Only son of Amar's mother's father — Amar's maternal uncle. 
+
+So, the girl's maternal uncle is Arnar's maternal uncle. Thus, the girl's mother is Amar's aunt. 
+
 
