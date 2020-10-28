@@ -545,4 +545,36 @@ Only son of Amar's mother's father — Amar's maternal uncle.
 
 So, the girl's maternal uncle is Arnar's maternal uncle. Thus, the girl's mother is Amar's aunt. 
 
+### 22) The total age of A and B is 12 years more than the total age of B and C. C is how many years younger than A ?
 
+A) 12
+B) 13
+C) 14	
+D) 15
+
+Solution: 
+A
+
+Solution:
+A+B=B+C+12
+so
+A=12
+
+### 23) The ratio of the present ages of P and Q is 3 : 4. Five years ago, the ratio of their ages was 5 : 7. Find their present ages.
+
+Solution: 
+P=(3*2*5)/1=30
+Q=(4*2*5)/1=40
+
+### 24) The average age of a group of 10 students is 15 years. When 5 more students join the group, the average age increase by 1 year. The average age of the new students is?
+
+Solution: 
+(150+x)/15=16.
+
+=)150+x=240
+
+=x=90
+
+Average of their ages=sum/number
+
+=)90/5=18
