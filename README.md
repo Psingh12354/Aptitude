@@ -70,6 +70,8 @@ check number divisible if yes than original number is also divisible.
 
 Similary multiply it by 2 and instead addition subtract it.
 
+## Age Base Questions
+![](https://github.com/Psingh12354/Apptitude/blob/main/AgeBase.jpeg)
 
 
 <h3 align=center><b><i>Practice Questions</i></b></h3>
