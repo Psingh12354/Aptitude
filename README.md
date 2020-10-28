@@ -51,7 +51,11 @@ Rate of stream =	1	(a - b) km/hr.
 
 - If P% and L% are equal then, P = L and **%loss = P^2/100**
 
-## Divisible by 7
+## Divisiblty Rule
+
+![](https://github.com/Psingh12354/Apptitude/blob/main/Divisibility%20Rule.jpeg)
+
+### Divisible by 7
 
 To check multiply the number by 5 or 2 and than that number add(if mul by 5) else if mul by 2(subtract) through left number
 
@@ -65,6 +69,7 @@ neglect the unit digit and add to left number
 check number divisible if yes than original number is also divisible.
 
 Similary multiply it by 2 and instead addition subtract it.
+
 
 
 <h3 align=center><b><i>Practice Questions</i></b></h3>
