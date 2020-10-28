@@ -17,6 +17,41 @@ Speed in still water =	1	(a + b) km/hr.
 Rate of stream =	1	(a - b) km/hr.
 2
 
+## Profit & Loss
+
+
+- Profit, P = SP – CP; SP>CP
+
+- Loss, L = CP – SP; CP>SP
+
+- P% = (P/CP) x 100
+
+- L% = (L/CP) x 100
+
+- SP = {(100 + P%)/100} x CP
+
+- SP = {(100 – L%)/100} x CP
+
+- CP = {100/(100 + P%)} x SP
+
+- CP = {100/(100 – L%)} x SP
+
+- Discount = MP – SP
+
+- SP = MP -Discount
+
+- For *false weight*, profit percentage will be **P% = (True weight – false weight/ false weight) x 100**.
+
+- When there are two successful profits say m% and n%, then the net percentage *profit* equals to **(m+n+mn)/100**
+
+- When the profit is m% and loss is n%, then the net % profit or loss will be: **(m-n-mn)/100**
+
+- If a product is sold at m% profit and then again sold at n% *profit* then the actual cost price of the product will be:
+    **CP = [100 x 100 x P/(100+m)(100+n)]**. In case of *loss*, **CP =[100 x 100 x P/(100-m)(100-n)]**
+
+- If P% and L% are equal then, P = L and **%loss = P^2/100**
+
+<h3 align=center><b><i>Practice Questions</i></b></h3>
 
 ### 1) What is the LCM of 147/64 and 30/44?
 
