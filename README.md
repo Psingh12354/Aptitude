@@ -71,11 +71,12 @@ check number divisible if yes than original number is also divisible.
 Similary multiply it by 2 and instead addition subtract it.
 
 ## Age Base Questions
+
 ![](https://github.com/Psingh12354/Apptitude/blob/main/AgeBase.jpeg)
 
 ## Blood Relation
 
-![](https://github.com/Psingh12354/Apptitude/blob/main/jagran.jpg)
+<img src="https://github.com/Psingh12354/Apptitude/blob/main/jagran.jpg" width="500" height="400" />
 
 <h3 align=center><b><i>Practice Questions</i></b></h3>
 
