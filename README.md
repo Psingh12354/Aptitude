@@ -78,6 +78,32 @@ Similary multiply it by 2 and instead addition subtract it.
 
 <img src="https://github.com/Psingh12354/Apptitude/blob/main/jagran.jpg" width="500" height="400" />
 
+## Clock
+
+### 1. Minute Spaces
+
+The face or dial of clock is a circle whose circumference is divided into 60 equal parts, named minute spaces.
+
+### 2. Hour hand and minute hand
+
+A clock has two hands. The smaller hand is called the hour hand or short hand and the larger one is called minute hand or long hand.
+
+3. In 60 minutes, minute hand gains 55 minute spaces over the hour hand.
+
+(In 60 minutes, hour hand will move 5 minute spaces while the minute hand will move 60 minute spaces. In effect the space gain of minute hand with respect to hour hand will be 60 - 5 = 55 minutes.)
+
+4. Both the hands of a clock coincide once in every hour.
+
+5. The hands of a clock are in the same straight line when they are coincident or opposite to each other.
+
+6. When the two hands of a clock are at *right angles*, they are *15 minute* spaces apart.
+
+7. When the hands of a clock are in opposite directions, they are 30 minute spaces apart.
+
+8. Angle traced by hour hand in **12 hrs = 360°**
+
+9. Angle traced by minute hand in **60 min. = 360°**.
+
 <h3 align=center><b><i>Practice Questions</i></b></h3>
 
 ### 1) What is the LCM of 147/64 and 30/44?
@@ -582,3 +608,35 @@ Solution:
 Average of their ages=sum/number
 
 =)90/5=18
+
+### 25) An accurate clock shows 8 o'clock in the morning. Through how may degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?
+
+A. 154°
+B. 170°
+C. 160°	
+D. 180°
+
+Solution: 
+We know that angle traced by hour hand in 12 hrs = 360°
+
+From 8 to 2, there are 6 hours.
+
+Angle traced by the hour hand in 6 hours =  6×360/12= 180°
+
+### 26) At 3:40, the hour hand and the minute hand of a clock form an angle of:
+
+A.	120°
+B.	125°
+C.	130°
+D.	135°
+
+Solution: 
+C
+Solution: 
+Angle traced by hour hand in 12 hrs. = 360°.
+
+Angle traced by it in	11/3	hrs =	(360/12	x	11/3)°	= 110°.
+Angle traced by minute hand in 60 min. = 360°.
+
+Angle traced by it in 40 min. =	(360/60x40)°= 240°.
+ Required angle (240 - 110)° = 130°.
