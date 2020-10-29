@@ -73,6 +73,9 @@ Similary multiply it by 2 and instead addition subtract it.
 ## Age Base Questions
 ![](https://github.com/Psingh12354/Apptitude/blob/main/AgeBase.jpeg)
 
+## Blood Relation
+
+![](https://github.com/Psingh12354/Apptitude/blob/main/jagran.jpg)
 
 <h3 align=center><b><i>Practice Questions</i></b></h3>
 
