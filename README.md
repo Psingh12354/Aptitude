@@ -461,10 +461,15 @@ Probability of getting atleast one nestle chocolate = [(10C1 x 5C1) + 10C2] / 15
 Hence, the required probability is 19/21.
 
 ### 15) Anil and Ruhi started a business by investing Rs 2000 and Rs 2800 respectively. After 8 months, Anil added Rs 600 and Ruhi added Rs 400. At the same time Teena joined them with Rs 4200. Find the share of Teena if they get a profit of Rs 34,300 after a year.
+
 A) Rs 7490
+
 B) Rs 7350
+
 C) Rs 8250
+
 D) Rs 8530
+
 E) None of these
 
 Solution
@@ -477,10 +482,15 @@ Share of Anil : Share of Ruhi : Share of Teena is
 so share of Teena = 21/(33+44+21) × 34300 = Rs 7350
 
 ### 16) A sum of Rs 7000 is deposited in two schemes. One part is deposited in Scheme A which offers 8% rate of interest. Remaining part is invested in Scheme B which offers 10% rate of interest compounded annually. If interest obtained in scheme A after 4 years is Rs 226 more than the interest obtained in scheme B after 2 years, find the part deposited in scheme B.
+
 A) Rs 3200
+
 B) Rs 4500
+
 C) Rs 3800
+
 D) Rs 3500
+
 E) Rs 2800
 
 Solution: 
@@ -496,10 +506,15 @@ Solution:
 So, x = Rs 3800
 
 ### 17) A work which is completed by 20 men in 8 days can be completed by 25 women 12 days. 16 men and 10 women start doing the work. After 3 days, they leave. If the remaining work is to be completed in 6 days by x number of men, find x.
+
 A) 16
+
 B) 18
+
 C) 12
+
 D) 10
+
 E) 22
 
 Solution:
@@ -515,10 +530,15 @@ So 20 × 8 × 3/5 = x × 6 × 1
 So, x = 16 men
 
 ### 18) There are 140 tickets (numbered 1 to 140) in a bowl. Find the probability of choosing a ticket which bears multiple of either 3 or 7.
+
 A) 3/5
+
 B) 2/9
+
 C) 1/8
+
 D) 3/7
+
 E) None of these
 
 Solution: 
@@ -533,17 +553,24 @@ So required probability = (46+20 – 6)/140 = 60/140 = 3/7
 ### 19) Introducing a man, a woman said, "He is the only son of the mother of my mother." How is the woman related to the man?
 
 A.	Mother
+
 B.	Sister
+
 C.	Niece
+
 D.	Maternal aunt
+
 Solution
 C
 
 ### 20) There are six persons A. B, C, D, E and F. C is the sister of F. B is the brother of E's husband. D is the father of A and grandfather of F. There are two fathers, three brothers and a mother in the group. Who is the mother ?
 
 A) A	
+
 B) B
+
 C) C	
+
 D) E 
 
 Solution:
@@ -563,8 +590,11 @@ So, B is brother of A There are three brothers. So. F is the brother of C.
  ### 21) Pointing to a girl in the photograph, Amar said, "Her mother's brother is the only son of my mother's father." How is the girl's mother related to Amar ? 
  
 A) Mother
+
 B) Sister
+
 C) Aunt 	
+
 D) Grandmother
 
 Solution:
@@ -578,8 +608,11 @@ So, the girl's maternal uncle is Arnar's maternal uncle. Thus, the girl's mother
 ### 22) The total age of A and B is 12 years more than the total age of B and C. C is how many years younger than A ?
 
 A) 12
+
 B) 13
+
 C) 14	
+
 D) 15
 
 Solution: 
@@ -593,27 +626,30 @@ A=12
 ### 23) The ratio of the present ages of P and Q is 3 : 4. Five years ago, the ratio of their ages was 5 : 7. Find their present ages.
 
 Solution: 
+
 P=(3*2*5)/1=30
 Q=(4*2*5)/1=40
 
 ### 24) The average age of a group of 10 students is 15 years. When 5 more students join the group, the average age increase by 1 year. The average age of the new students is?
 
 Solution: 
+
 (150+x)/15=16.
 
 =)150+x=240
 
 =x=90
 
-Average of their ages=sum/number
-
-=)90/5=18
+Average of their ages=sum/number=)90/5=18
 
 ### 25) An accurate clock shows 8 o'clock in the morning. Through how may degrees will the hour hand rotate when the clock shows 2 o'clock in the afternoon?
 
 A. 154°
+
 B. 170°
+
 C. 160°	
+
 D. 180°
 
 Solution: 
@@ -626,8 +662,11 @@ Angle traced by the hour hand in 6 hours =  6×360/12= 180°
 ### 26) At 3:40, the hour hand and the minute hand of a clock form an angle of:
 
 A.	120°
+
 B.	125°
+
 C.	130°
+
 D.	135°
 
 Solution: 
