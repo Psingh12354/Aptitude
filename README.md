@@ -679,3 +679,59 @@ Angle traced by minute hand in 60 min. = 360°.
 
 Angle traced by it in 40 min. =	(360/60x40)°= 240°.
  Required angle (240 - 110)° = 130°.
+ 
+ ### 27) A person crosses a 600 m long street in 5 minutes. What is his speed in km per hour?
+
+A.	3.6
+
+B.	7.2
+
+C.	8.4
+
+D.	10
+
+Solution: 
+B
+Solution: 
+
+Speed =600/(5 x 60)= 2 m/sec.
+Converting m/sec to km/hr (see important formulas section)
+   =	(2 x18/5)km/hr= 7.2 km/hr.
+   
+ ### 28) A train of length 110 meters is running at a speed of 60 kmph. In what time, it will pass a man who is running at 6 kmph in the direction opposite to that in which the train is going?
+A. 10
+
+B. 8
+
+C. 6
+
+D. 4
+
+Solution:
+C
+
+Opposite direction 
+speed=60+6=66km/h
+time=distance/speed=110/66=5/3 km/h
+in m/s 5/3x18/5=6
+
+### 29) Two trains of equal length, running in opposite directions, pass a pole in 18 and 12 seconds. The trains will cross each other in:
+
+A. 14.4 seconds
+
+B. 15.5 seconds
+
+C. 18.8 seconds
+
+D. 20.2 seconds
+
+Solution :  A
+Solution : 
+Let length of each train be x meter.
+Then, speed of 1st train = x18
+ m/sec
+Speed of 2nd train = x12
+ m/sec
+Now,
+When both trains cross each other, time taken
+=2xx18+x12=2x2x+3x36=2x×365x=725=14.4seconds
