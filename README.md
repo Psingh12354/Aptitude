@@ -728,10 +728,13 @@ D. 20.2 seconds
 Solution :  A
 Solution : 
 Let length of each train be x meter.
-Then, speed of 1st train = x18
- m/sec
-Speed of 2nd train = x12
- m/sec
+
+Then, speed of 1st train = x/18m/sec
+
+Speed of 2nd train = x/12 m/sec
+
 Now,
+
 When both trains cross each other, time taken
-=2xx18+x12=2x2x+3x36=2x×365x=725=14.4seconds
+
+=2x/(x/18+x/12)=2x/(2x+3x)/36=(2x X 36)/5x=725=14.4seconds
