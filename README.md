@@ -42,7 +42,7 @@ Rate of stream =	1	(a - b) km/hr.
 
 - Discount = MP – SP
 
-- SP = MP -Discount
+- SP = MP -Discou
 
 - For *false weight*, profit percentage will be **P% = (True weight – false weight/ false weight) x 100**.
 
