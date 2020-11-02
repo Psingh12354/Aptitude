@@ -106,6 +106,8 @@ A clock has two hands. The smaller hand is called the hour hand or short hand an
 
 ### Probability
 
+![](https://github.com/Psingh12354/Apptitude/blob/main/probability.PNG)
+
 ![](https://github.com/Psingh12354/Apptitude/blob/main/Probability%204.PNG)
 
 <h3 align=center><b><i>Practice Questions</i></b></h3>
