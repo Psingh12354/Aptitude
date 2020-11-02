@@ -752,3 +752,65 @@ Now,
 When both trains cross each other, time taken
 
 =2x/(x/18+x/12)=2x/(2x+3x)/36=(2x X 36)/5x=725=14.4seconds
+
+### 30) What will come in place of question mark (?) in the following series?
+
+767 495 359 291 257 ?
+
+A. 230 
+B. 240
+C. 250
+D. 280
+E. 260
+
+Soluton : 
+B
+
+Solution: 
+
+797-495=272
+495-359=136
+So which means it is half of previous diffrences
+272/2=136
+291-257=32
+34/2=17
+So subtract 17
+257-17=240
+...
+
+### 31)  What will come in place of question mark (?) in the following series?
+
+50 67 33 84 16 ?
+
+A. 101
+B. 109
+C. 107
+D. 103
+E. 201
+
+Solution: 
+A
+
+Solution: 
+17 is the gap once increase and than decrease follow this order you will get the answer
+
+### In each of the following number series given, one particular number is wrong. Find out that wrong number in each series.
+
+### A) 2 3 10 38 172
+
+1. 192
+
+2. 10
+
+3. 38
+
+4. 2
+
+5. 3
+
+Solution: 
+
+3
+
+Solution: 
+Logic is 2×1 + 1 = 3, 3 × 2 + 4 =10, 10 × 3 + 9 = 39, 39 × 4 + 16 = 172…. So in place of 38, it should be 39.
