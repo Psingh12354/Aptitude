@@ -1,4 +1,8 @@
+---
+
 <h1 align=center><b>Apptitude</b></h1>
+
+---
 
 ## Downstream/Upstream:
 
@@ -110,9 +114,11 @@ A clock has two hands. The smaller hand is called the hour hand or short hand an
 
 ![](https://github.com/Psingh12354/Apptitude/blob/main/Probability%204.PNG)
 
+---
 
 <h2 align=center><b><i>Practice Questions</i></b></h2>
 
+---
 
 ### 1) What is the LCM of 147/64 and 30/44?
 
