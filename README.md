@@ -108,11 +108,17 @@ A clock has two hands. The smaller hand is called the hour hand or short hand an
 
 9. Angle traced by minute hand in **60 min. = 360°**.
 
-### Probability
+## Probability
 
 ![](https://github.com/Psingh12354/Apptitude/blob/main/probability.PNG)
 
 ![](https://github.com/Psingh12354/Apptitude/blob/main/Probability%204.PNG)
+
+##  AP & GP
+
+![](https://github.com/Psingh12354/Apptitude/blob/main/ap1.jpg)
+
+![](https://github.com/Psingh12354/Apptitude/blob/main/ap2.png)
 
 ---
 
