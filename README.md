@@ -827,3 +827,58 @@ Logic is 2×1 + 1 = 3, 3 × 2 + 4 =10, 10 × 3 + 9 = 39, 39 × 4 + 16 = 172…. 
 
 Solution: 
 Greatest six-digit number is 999999. Divide this number by 12 and get remainder as 3. Since the remainder is 3, if you subtract 3 from the number, the remaining number will be a multiple of 12. So the greatest such number will be 999999 – 3 =999996.
+
+### 34) What is the sum of all natural numbers between 100 and 200 which are multiples of 3?
+
+1. 5000
+
+2. 4950
+
+3. 4980
+
+4. 4900
+
+5. None of these
+
+Solution:
+
+Multiples of 3 between 100 and 200 are 102, 105, 108,â€¦ ,198.
+Here, the first term = 102
+last term = 198
+Let the number of Multiples of 3 between 100 and 200 = n
+
+W.K.T: Arithmetic Progression Formula:
+an = a1 + (n - 1)d
+Where, an = last term = 198
+a1 = first term = 102
+d = common difference = 105 - 102 = 3
+---> 198 = 102 + (n - 1) * 3
+---> 198 - 102 = (n - 1) * 3
+---> 96 = (n - 1) * 3
+---> (n - 1) = 96/3 = 32
+---> n = 32 + 1
+---> n = 33
+
+Formula:
+Sum of n terms = Sn = (n/2) * (a + l)
+where n = number of elements = 33
+a = first term = 102
+l = last term = 198
+Thus, using the above formula, Sum of all natural numbers between 100 and 200 which are multiples of 3 = (33/2) * (102 + 198)
+= (33/2) * 300
+= 33 * 150
+= 4950
+
+### 35) The sum of three numbers in an Arithmetic Progression is 45 and their product is 3000. What are the three numbers?
+
+A. 5, 15, 25
+
+B. 12, 15, 18
+
+C. 10, 15, 20
+
+D. -10, -15, -20
+
+Solution:
+
+Assuming that the numbers are (a – d), a, (a + d) and their sum is 45, we get the middle number as 15. Now, the product (a – d) (a + d) = 200. Solving, we get d = 5. Therefore, the numbers are 10, 15 and 20.
