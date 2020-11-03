@@ -794,7 +794,7 @@ A
 Solution: 
 17 is the gap once increase and than decrease follow this order you will get the answer
 
-### In each of the following number series given, one particular number is wrong. Find out that wrong number in each series.
+### 32) In each of the following number series given, one particular number is wrong. Find out that wrong number in each series.
 
 ### A) 2 3 10 38 172
 
@@ -814,3 +814,16 @@ Solution:
 
 Solution: 
 Logic is 2×1 + 1 = 3, 3 × 2 + 4 =10, 10 × 3 + 9 = 39, 39 × 4 + 16 = 172…. So in place of 38, it should be 39.
+
+### 33) Find the greatest 6-digit number, which is a multiple of 12.
+
+1. 999980
+
+2. 999990
+
+3. 999984
+
+4. None of these
+
+Solution: 
+Greatest six-digit number is 999999. Divide this number by 12 and get remainder as 3. Since the remainder is 3, if you subtract 3 from the number, the remaining number will be a multiple of 12. So the greatest such number will be 999999 – 3 =999996.
