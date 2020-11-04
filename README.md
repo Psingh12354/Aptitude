@@ -122,6 +122,33 @@ A clock has two hands. The smaller hand is called the hour hand or short hand an
 
 ---
 
+## Number System
+
+### TYPES OF NUMBERS :
+**1.** Natural numbers (N) = 1, 2, 3, . . . .
+**2.** Whole numbers (W) = 0, 1, 2, 3, . . . .
+**3.** Intezers (Z) = −∞ . . . −2, −1, 0, 1, 2, 3, . . .
+**4.** Rational numbers (Q) = The numbers of the form p⁄q  where q ≠ 0.  Eg: 1⁄5 , 0.46, 0.333333 they are **terminating, repeating**.
+**5.** Irrational numbers (I) = The numbers of the form x1⁄n  ≠ Intezer.  Also π and e also irrational numbers they are  **non-terminating, non-repeating**.
+
+Other types of numbers:
+**a.** Even numbers : Numbers which are exactly divisible by 2.  These numbers are in the format of 2n.
+**b.** Odd numbers: Numbers which gives remainder 1 when divided by 2. These numbers are in the format of 2n ± 1.
+**c.** Prime numbers : The numbers which are divisible by 1 and the number itself are primes.  The least prime is 2.
+**d.** Composite numbers : The numbers of which are divisible by more than 2 numbers.
+
+### IMPORTANT RULES RELATED TO EVEN AND ODD NUMBERS:
+odd ± odd = even;
+even ± even = even;
+even ± odd = odd
+
+odd × odd = odd;
+even × even = even;
+even × odd = even.
+
+odd(any number) = odd
+even(any number) = even
+
 <h2 align=center><b><i>Practice Questions</i></b></h2>
 
 ---
@@ -888,3 +915,60 @@ D. -10, -15, -20
 Solution:
 
 Assuming that the numbers are (a – d), a, (a + d) and their sum is 45, we get the middle number as 15. Now, the product (a – d) (a + d) = 200. Solving, we get d = 5. Therefore, the numbers are 10, 15 and 20.
+
+### 36) if 1 is added to the denominator of a fraction, the fraction becomes 1/2. if 1 is added to the numerator of the fraction, the fraction becomes 1. find the fraction
+
+Solution: 
+
+x/(y+1)=1/2
+
+and
+
+(x+1)/y=1
+
+2x-y=1 ....eq (1)
+
+x=y-1 ....eq (2)
+
+by solving eq 1 and 2 we get
+
+x=2 and y=3
+
+### 37) After the division of a number successively by 3, 4 and 7, the remainder obtained is 2, 1 and 4 respectively. What will be remainder if 84 divide the same number?
+
+A. 80
+
+B. 75
+
+C. 42
+
+D. 53
+
+Answer: Option D
+
+Solution: 
+As the Number gives a remainder of 4 when it is divided by 7, then the number must be in form of (7x + 4)
+
+The same gives remainder 1 when it is divided 4, so the number must be in the form of {4 × (7x + 4) + 1}
+
+Also, the number when divided by 3 gives remainder 2, thus number must be in form of [3 × {4 × (7x + 4) + 1} + 2]
+
+Now, On simplifying,
+[3 × {4 × (7x + 4) + 1} + 2]
+= 84x + 53
+We get the final number 53 more than a multiple of 84 Hence, if the number is divided by 84,
+The remainder will be 53
+
+### 38) If the sum of two numbers is 55 and the H.C.F. and L.C.M. of these numbers are 5 and 120 respectively, then the sum of the reciprocals of the numbers is equal to:
+
+A) 55/601
+
+B) 601/55
+
+C) 11/120
+
+D) 120/11
+
+Solution: 
+Then, a + b = 55 and ab = 5 x 120 = 600.
+The required sum =1a+1b = a+bab= 55600=11120
