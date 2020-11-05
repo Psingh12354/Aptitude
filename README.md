@@ -972,3 +972,54 @@ D) 120/11
 Solution: 
 Then, a + b = 55 and ab = 5 x 120 = 600.
 The required sum =1a+1b = a+bab= 55600=11120
+
+### 39) In a certain code language, ‘sea is deep’ means ‘213’, ‘sky is blue’ means ‘514’ and ‘sea looks blue’ means ‘264’
+
+### What number is the code for ‘sky’?
+
+Solution: 
+5
+
+### 40) In the following questions, one term in the number series is wrong. Find the wrong term.
+
+2, 3, 5, 8, 13, 20, 34
+
+Solution: 
+first+second=third
+follow this order you get **20** as a answer
+
+### 41) In the following question, one term in the number series is wrong. Find the wrong term.
+
+196, 169, 144, 121, 100, 80
+
+Solution: 
+80
+First - Second=2
+
+### 42) SCD, TEF, UGH, ____, WKL
+
+A.	CMN
+
+B.	UJI
+
+C.	VIJ	
+
+D.	IJT
+
+Solution: 
+C
+
+### 43) In a certain code 'MISSIONS' is written as 'MSIISNOS'. How is 'ONLINE' written in that code?
+
+1. OLNNIE
+
+2. ONILEN
+
+3. NOILEN
+
+4. LNOENI
+
+5. ONNLIE
+
+Solution: 
+1
