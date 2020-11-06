@@ -1099,3 +1099,59 @@ Population of city A = Population of city B
 68000 – 42000 = 1200x + 800x
 26000 = 2000x
 x = 13
+
+
+### 45) A contractor pays Rs. 20 to a worker for each day and the worker forfeits Rs. 10 for each day if he is idle. At the end of 60 days, the worker gets Rs. 300. Find for how many days the worker was idle?
+
+a. 28 days
+
+b. 30 days
+
+c. 34 days
+
+d. 40 days
+
+Solution:
+
+Correct Option: (b)
+
+Step 1: Number of days worked by the worker = 60 and he remained idle for x days. Therefore, number of days worked = (60 – x)
+
+Step 2: Each day he was getting paid Rs. 20. Therefore, the payment received for working days = (60 – x) 20
+
+Step 3: After subtracting the amount which he forfeited, he receives Rs. 300.
+
+Therefore,
+(60 – x) 20 – 10x = 300
+1200 – 20x – 10x = 300
+900 = 30x
+x = 30 days
+
+### 46) In a farm, along with 50 hens, there were 45 goats and 8 horses and some farmers. If total number of feet be 224 more than number of heads, then find the number of farmers.
+
+a. 11
+
+b. 15
+
+c. 16
+
+d. 18
+
+Solution: 
+Correct Option: (b)
+
+Let’s the number of farmers be y.
+
+Step 1: Find number of heads
+= (50 hens + 45 goats + 8 horses + y farmers)
+= (103 + y)
+
+Step 2: Number of feet
+= [(Hens 2 × 50) + (45 × 4) + (8 × 4) + (y × 2)]
+= [100 + 180 + 32 + 2y]
+= 312 + 2y
+
+Step 3: Find number of farmers
+(312 + 2y) – (103 + y) = 224
+312 + 2y – 103 – y = 224
+y = 15
