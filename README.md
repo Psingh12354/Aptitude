@@ -120,7 +120,6 @@ A clock has two hands. The smaller hand is called the hour hand or short hand an
 
 ![](https://github.com/Psingh12354/Apptitude/blob/main/ap2.png)
 
----
 
 ## Number System
 
@@ -148,6 +147,53 @@ even × odd = even.
 
 odd(any number) = odd
 even(any number) = even
+
+## BODMAS
+
+1) (a - b)2 = (a2 + b2 - 2ab)
+
+2) (a + b)2 = (a2 + b2 + 2ab)
+
+3) (a + b) (a – b) = (a2 – b2 )
+
+4) (a3 + b3) = (a + b) (a2 – ab + b2)
+
+5) (a3 - b3) = (a - b) (a2 – ab + b2)
+
+6) (a + b + c)2 = a2 + b2 + c2 + 2 (ab + bc + ca)
+
+7) (a3 + b3 + c3 – 3abc) = (a + b + c) (ar>2 + b2 + c2 – ab – bc – ac)
+
+Quick Tips and Tricks
+
+1) Virnaculum (Bar ‘¬¬–’): If a given expression contains a virnaculum (bar), then first simplify the given expression under virnaculum and then follow the rule of ‘BODMAS’.
+
+Step1: When simplifying the given expressions, first brackets are to be removed in the order: ‘––’, ‘( )’, ‘{ }’, ‘[ ]’
+
+Step2: The operations are to be performed strictly in the order: Division, Multiplication, Addition and Subtraction
+
+2) ‘BODMAS Rule’: This rule is used to solve and find out the value of given expressions by performing the operations in a correct sequence.
+
+BODMAS is the shortcut used to remember the procedure of simplification.
+
+B: Bracket
+
+O: Order (i.e. power, square root etc.)
+
+D: Division (Left to right)
+
+M: Multiplication (Left to right)
+
+A: Addition (Left to right)
+
+S: Subtraction (Left to right)
+
+Step1: When simplifying the given expressions, first brackets are to be removed in the order: ( ), { }, [ ]
+
+Step2: The operations are to be performed strictly in the order: Division, Multiplication, Addition and Subtraction
+
+
+---
 
 <h2 align=center><b><i>Practice Questions</i></b></h2>
 
@@ -1023,3 +1069,33 @@ C
 
 Solution: 
 1
+
+### 44) The population of a city A which is 68000 decreases at the rate of 1200/year. Population of city B which is 42000, increases at the rate of 800 per year. Find in how many years, the population of cities A and B are equal?
+
+a. 9 years
+
+b. 10 years
+
+c. 13 years
+
+d. 15 years
+
+Solution: 
+
+Correct Option: (c)
+
+We have to find the population of cities A and B after x years.
+
+Step 1: Population of city A = 68000, decreases at the rate of 1200/year
+68000 – 1200x
+
+Step 2: Population of city B = 42000, increases at the rate of 800/year
+42000 + 800x
+
+Step 3: Find after how many population of cities A and B are equal.
+
+Population of city A = Population of city B
+68000 – 1200x = 42000 + 800x
+68000 – 42000 = 1200x + 800x
+26000 = 2000x
+x = 13
