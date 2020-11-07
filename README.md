@@ -200,6 +200,13 @@ Step1: When simplifying the given expressions, first brackets are to be removed 
 
 Step2: The operations are to be performed strictly in the order: Division, Multiplication, Addition and Subtraction
 
+---
+
+<h2 align=center><b><i>Important Links</i></b></h2>
+
+- [Population Based Question](https://www.math-shortcut-tricks.com/percentage-calculation-on-population-shortcut-tricks/)
+
+---
 
 ---
 
