@@ -206,6 +206,8 @@ Step2: The operations are to be performed strictly in the order: Division, Multi
 
 - [Population Based Question](https://www.math-shortcut-tricks.com/percentage-calculation-on-population-shortcut-tricks/)
 
+- [Ration And Proportion](https://www.indiabix.com/aptitude/ratio-and-proportion/)
+
 ---
 
 ---
