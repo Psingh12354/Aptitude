@@ -1328,3 +1328,91 @@ CI=2500*(1+4/100)^2
 CI=2704
 So the diffrenece is 204
 ```
+
+### 48) Sohan started a business with a capital of Rs. 80000. After 6 months Mohan joined as a partner by investing Rs. 65000. After one year they earned total profit Rs. 20000. What is share of Sohan in the profit?
+
+A) Rs. 5222.2
+
+B) Rs. 5777.7
+
+C) Rs. 6222.2
+
+D) Rs. 6777.7
+
+Solution: 
+```
+Option B
+80000*12/65000*6=32/13
+113/32*20000=5777.7rs
+```
+
+### 49) If January 1, 1996, was Monday, what day of the week was January 1, 1997?
+
+A) Thursday
+
+B) Wednesday
+
+C) Friday
+
+D) Sunday
+
+Solution: 
+```
+The correct option is (B)
+
+Explanation:
+
+The year 1996 is divisible by 4, so it is a leap year with 2 odd days.
+
+As per the question, the first day of the year 1996 was Monday, so the first day of the year 1997 must be two days after Monday. So, it was Wednesday.
+```
+
+### 50) The speed of a boat in still water is 5km/hr. If the speed of the boat against the stream is 3 km/hr, what is the speed of the stream?
+
+A) 1.5 km/hr
+
+B) 2 km/hr
+
+C) 2.5 km/hr
+
+D) 1 km/hr
+
+Solution:
+```
+The correct answer is B
+
+Answer with explanation:
+
+Let the speed of stream = X km/hr
+
+Speed of boat = 5 km/hr
+
+Speed upstream = 3km/hr
+
+Apply formula: Speed upstream = speed of boat - speed of stream
+
+∴ 3 = 5 - X
+
+X = 5 - 3 = 2 km/hr
+```
+
+### 51)  How many times the hands of a clock coincide in a day?
+
+A) 24
+
+B) 22
+
+C) 23
+
+D) 21
+
+Solution: 
+```
+The Correct answer is (B)
+
+Explanation:
+
+The hands of a clock coincide only once between 11 O' clock and 1 O' clock, so in every 12 hours, the hands of a clock will coincide for 11 times.
+
+∴ In a day or 24 hours, the hands of a clock will coincide for 22 (11+11) times.
+```
