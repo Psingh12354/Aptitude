@@ -1287,3 +1287,44 @@ Step 3: Find number of farmers
 312 + 2y – 103 – y = 224
 y = 15
 ```
+
+### 47) What is the difference in the place value of 5 in the numeral 754853?
+
+A) 49500
+
+B) 49950
+
+C) 45000
+
+D) 49940
+
+Solution: 
+```
+The Correct answer is (B)
+
+Answer with explanation:
+
+The digit 5 has two place values in the numeral, 5 * 105 = 50,000 and 5 * 101 = 50.
+
+∴Required difference = 50000 - 50 = 49950
+```
+
+### 48) What is the compound interest on Rs. 2500 for 2 years at rate of interest 4% per annum?
+
+A) Rs. 180
+
+B) Rs. 204
+
+C) Rs. 210
+
+D) Rs. 220
+
+Solution:
+```
+Option B
+CI=P(1+r/100)^t
+
+CI=2500*(1+4/100)^2
+CI=2704
+So the diffrenece is 204
+```
