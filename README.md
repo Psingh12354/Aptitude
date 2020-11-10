@@ -1466,3 +1466,99 @@ a=10
 diagonal of cube=sqrt(3)*a
 ans=sqrt(3)*10
 ```
+
+### 55) 	
+The H.C.F. of two numbers is 23 and the other two factors of their L.C.M. are 13 and 14. The larger of the two numbers is:
+
+A.	276
+
+B.	299
+
+C.	322
+
+D.	345
+
+Solution:
+```
+Answer: Option C
+
+Explanation:
+
+Clearly, the numbers are (23 x 13) and (23 x 14).
+
+ Larger number = (23 x 14) = 322.
+ ```
+ 
+ ### 56) 	
+Six bells commence tolling together and toll at intervals of 2, 4, 6, 8 10 and 12 seconds respectively. In 30 minutes, how many times do they toll together ?
+
+A.	4
+
+B.	10
+
+C.	15
+
+D.	16
+
+Solution:
+```
+Answer: Option D
+
+Explanation:
+
+L.C.M. of 2, 4, 6, 8, 10, 12 is 120.
+
+So, the bells will toll together after every 120 seconds(2 minutes).
+
+In 30 minutes, they will toll together	30	+ 1 = 16 times.
+2
+```
+
+### 57) 	
+Let N be the greatest number that will divide 1305, 4665 and 6905, leaving the same remainder in each case. Then sum of the digits in N is:
+
+A.	4
+
+B.	5
+
+C.	6
+
+D.	8
+
+Solution:
+```
+Answer: Option A
+
+Explanation:
+
+N = H.C.F. of (4665 - 1305), (6905 - 4665) and (6905 - 1305)
+
+  = H.C.F. of 3360, 2240 and 5600 = 1120.
+
+Sum of digits in N = ( 1 + 1 + 2 + 0 ) = 4
+```
+
+### 58) The greatest number of four digits which is divisible by 15, 25, 40 and 75 is:
+
+A.	9000
+
+B.	9400
+
+C.	9600
+
+D.	9800
+
+Solution
+```
+Answer: Option C
+
+Explanation:
+
+Greatest number of 4-digits is 9999.
+
+L.C.M. of 15, 25, 40 and 75 is 600.
+
+On dividing 9999 by 600, the remainder is 399.
+
+ Required number (9999 - 399) = 9600.
+```
