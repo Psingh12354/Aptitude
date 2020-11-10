@@ -1416,3 +1416,52 @@ The hands of a clock coincide only once between 11 O' clock and 1 O' clock, so i
 
 ∴ In a day or 24 hours, the hands of a clock will coincide for 22 (11+11) times.
 ```
+
+### 52) A pipe can fill a tank in 6 hours and another pipe can empty the tank in 12 hours. If both the pipes are opened at the same time,the tank can be filled in
+
+A) 10 hours
+
+B) 12 hours
+
+C) 14 hours
+
+D) 16 hours
+
+Solution:
+
+```
+Option B
+Water enter in 1 hr=1/6
+Water empty in 1 hr=1/12
+net=1/6-1/12=1/12
+or 12hr
+```
+
+### 53) A running man crosses a bridge of length 500 meters in 4 minutes. At what speed he is running?
+
+A) 8.5 km/s
+
+B) 7.5 km/s
+
+C) 9.5 km/s
+
+D) 6.5 km/s
+
+Solution: 
+
+```
+Option B
+sec=4*60=240s
+speed=500/240=25/12m/s
+in km/s speed is =25/12*18/5=7.5km/s.
+```
+### 54) The surface area of a cube is 600 cm2. The length of its diagonal is
+
+Solution: 
+```
+Surface area of cube=6a^2
+600=6*a^2
+a=10
+diagonal of cube=sqrt(3)*a
+ans=sqrt(3)*10
+```
