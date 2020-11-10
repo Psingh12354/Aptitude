@@ -332,8 +332,9 @@ Thus water shall be added= (45 – 36 – 4) = 5 liters of water
 
 **or**
 
-![](https://github.com/Psingh12354/Apptitude/blob/main/a1.jpg)
 ```
+![](https://github.com/Psingh12354/Apptitude/blob/main/a1.jpg)
+
 
 ### 5) Four different electronic devices make a beep after every 30 minutes, 1 hour, 3/2 hour and 1 hour 45 minutes respectively. All the devices beeped together at 12 noon. They will again beep together at:
 
