@@ -1562,3 +1562,72 @@ On dividing 9999 by 600, the remainder is 399.
 
  Required number (9999 - 399) = 9600.
 ```
+
+### 59) If 15 men can reap the crops of a field in 28 days, in how many days will 5 men reap it?
+
+A) 50 days
+
+B) 60 days
+
+C) 84 days
+
+D) 9.333 days
+
+Solution: 
+```
+Answer: C
+
+Explanation:
+
+Let 5 men can reap a field in x days
+So, put the same quantities on the same side.
+Men: Days
+Now, Men and Days are inversely proportional to each other. If we increase the number of men fewer days will be required to complete the work.
+Inversely proportional means Apti Chain Rule
+Apti Chain Rule
+
+i.e., 5: 15 = 28: x
+Or, x = (28*15)/ 5
+Or, x = 84 days
+Hence, 5 men can reap a field in 84 days.
+```
+
+### 60)  Find the logarithm of 1/256 to the base 2√2.
+
+A) 16
+
+B) 13/5
+
+C) -16/3
+
+D) 12
+
+Solution: 
+```
+Answer: C
+
+Explanation:
+
+Let log2√2 [1/256] = x
+
+We know that loga y = x is similar to ax = y
+
+So, we can write it as [1/256] = (2√2) x
+
+Or, (2√2) x = [1/28]
+
+Or, [21 * 21/2]x = 1/28
+
+Or, 23x/2 = 2-8
+
+Therefore, 3x/2 = -8
+
+Hence, x = (-8 * 2)/ 3 = -16/3
+```
+
+### 61) In what ways the letters of the word "RUMOUR" can be arranged?
+
+Solution: 
+```
+(6!)/(2!)(2!)=180
+```
