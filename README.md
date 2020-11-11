@@ -208,6 +208,8 @@ Step2: The operations are to be performed strictly in the order: Division, Multi
 
 - [Ratio And Proportion](https://www.indiabix.com/aptitude/ratio-and-proportion/)
 
+- [Code/Decode](https://www.hitbullseye.com/Coding-Decoding-Questions.php)
+
 ---
 
 ---
