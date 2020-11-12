@@ -212,6 +212,8 @@ Step2: The operations are to be performed strictly in the order: Division, Multi
 
 - [Log](https://www.indiabix.com/aptitude/logarithm/)
 
+=[Amcat Verbal Question](https://www.faceprep.in/amcat-exam/amcat-verbal-questions-previously-asked-questions/)
+
 ---
 
 ---
