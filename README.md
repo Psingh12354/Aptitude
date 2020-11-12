@@ -210,6 +210,8 @@ Step2: The operations are to be performed strictly in the order: Division, Multi
 
 - [Code/Decode](https://www.hitbullseye.com/Coding-Decoding-Questions.php)
 
+- [Log](https://www.indiabix.com/aptitude/logarithm/)
+
 ---
 
 ---
