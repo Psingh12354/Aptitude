@@ -1639,3 +1639,13 @@ Solution:
 ```
 (6!)/(2!)(2!)=180
 ```
+
+### 62) Find the remainder when 1! + 2! + 3! +4! + 5! + ————– 1000! is divided by 8?
+
+Solution:
+```
+You can see number less than 3! are not divisible by 8 so it decide your output
+(1!+2!+3!)=9
+9%8=1
+1 is the answer
+```
