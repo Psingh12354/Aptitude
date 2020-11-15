@@ -1649,3 +1649,82 @@ You can see number less than 3! are not divisible by 8 so it decide your output
 9%8=1
 1 is the answer
 ```
+
+### 63) 106 x 106 - 94 x 94 = ?
+
+A.	2400	
+
+B.	2000
+
+C.	1904
+
+D.	1906
+
+E.	None of these
+
+Solution: 
+```
+106 x 106 - 94 x 94	= (106)2 - (94)2
+= (106 + 94)(106 - 94)    [Ref: (a2 - b2) = (a + b)(a - b)]
+= (200 x 12)
+= 2400.
+```
+
+### 64)  	
+The difference of two numbers is 1365. On dividing the larger number by the smaller, we get 6 as quotient and the 15 as remainder. What is the smaller number ?
+
+A.	240
+
+B.	270	
+
+C.	295
+
+D.	360
+
+Answer: Option B
+
+Explanation:
+```
+Let the smaller number be x. Then larger number = (x + 1365).
+
+ x + 1365 = 6x + 15
+
+ 5x = 1350
+
+ x = 270
+
+Smaller number = 270
+```
+
+### 65) The sum of first 45 natural numbers is:
+
+A.	1035
+
+B.	1280
+
+C.	2070
+
+D.	2140
+
+Answer: Option A
+
+Explanation:
+
+```
+Let Sn =(1 + 2 + 3 + ... + 45). This is an A.P. in which a =1, d =1, n = 45.
+
+Sn =	n	[2a + (n - 1)d]	=	45	x [2 x 1 + (45 - 1) x 1]	=		45	x 46		= (45 x 23)
+2	2	2
+= 45 x (20 + 3)
+
+= 45 x 20 + 45 x 3
+
+= 900 + 135
+
+= 1035.
+
+Shorcut Method:
+
+Sn =	n(n + 1)	=	45(45 + 1)	= 1035.
+2	2
+```
