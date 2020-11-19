@@ -1728,3 +1728,25 @@ Shorcut Method:
 Sn =	n(n + 1)	=	45(45 + 1)	= 1035.
 2	2
 ```
+
+### 66) Ronald and Elan are working on an assignment. Ronald takes 6 hours to type 32 pages on a computer, while Elan takes 5 hours to type 40 pages. How much time will they take working together on two different computers to type an assignment of 110 pages ?
+
+[A]7 hours 30 minutes
+
+[B]8 hours
+
+[C]8 hours 15 minutes
+
+[D]8 hours 25 minutes
+
+Solution) 
+```
+C)
+Ronald 1 hr work = 32/6=16/3
+Elan 1 hr work = 40/5=8
+Show both work in an hr=8+16/3=40/3
+Show for 110 pages it will take 110/(40/3) or (110 x 3)/40=33/4hr 
+Since: convert it into hr 4*8=32 1 left in 1 hr 60 min 60/4=15min
+
+Show final answer is 8hr 15 mon
+```
