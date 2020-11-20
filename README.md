@@ -200,6 +200,13 @@ Step1: When simplifying the given expressions, first brackets are to be removed 
 
 Step2: The operations are to be performed strictly in the order: Division, Multiplication, Addition and Subtraction
 
+## Alligation or Mixture
+
+**Important formula : **
+
+- final mixture = initial misture(1-replaced amount/total amount)^n
+
+
 ---
 
 <h2 align=center><b><i>Important Links</i></b></h2>
