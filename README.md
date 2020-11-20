@@ -16,10 +16,10 @@ Speed upstream = (u - v) km/hr.
 
 If the speed downstream is a km/hr and the speed upstream is b km/hr, then:
 
-Speed in still water =	1	(a + b) km/hr.
-2
-Rate of stream =	1	(a - b) km/hr.
-2
+Speed in still water =	1/2*(a + b) km/hr.
+
+Rate of stream =	1/2*(a - b) km/hr.
+
 
 ## Profit & Loss
 
