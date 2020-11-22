@@ -206,6 +206,15 @@ Step2: The operations are to be performed strictly in the order: Division, Multi
 
 - final mixture = initial misture(1-replaced amount/total amount)^n
 
+## Series
+
+**Important Formula**
+
+- Sum of Square of n natural number= n(n+1)(2n+1)/2
+
+- Sum of n natural number=n(n+1)/2
+
+- Sum in ap= nx(a+l)/2
 
 ---
 
