@@ -1766,3 +1766,30 @@ Since: convert it into hr 4*8=32 1 left in 1 hr 60 min 60/4=15min
 
 Show final answer is 8hr 15 mon
 ```
+
+### 67) 4^x + 6^x = 9^x
+
+Solution: 
+
+[link to solution](https://www.youtube.com/watch?v=6AwfRXKvGsM)
+
+```
+4^x/4^x + 6^x/4^x = 9^x/4^x
+Now,
+1 + (3/2)^x=(3/2)^(2x)
+Consider (3/2)^x=u
+Then,
+1 + u = u^2
+Simplifying this
+
+0 = u^2 -u -1
+
+By solving we get
+u = (1 + sqrt(5))/2
+
+and this equal to
+(1 + sqrt(5))/2 = (3/2)^x
+Take log both side
+
+and you get 1.187 approx value.
+```
