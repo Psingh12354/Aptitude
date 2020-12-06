@@ -202,6 +202,9 @@ Step2: The operations are to be performed strictly in the order: Division, Multi
 
 ## Mensuration
 
+![](https://github.com/Psingh12354/Aptitude/blob/main/Men1.jpg)
+
+![](https://github.com/Psingh12354/Aptitude/blob/main/Men2.jpg)
 
 
 ## Alligation or Mixture
