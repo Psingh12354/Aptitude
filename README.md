@@ -200,6 +200,10 @@ Step1: When simplifying the given expressions, first brackets are to be removed 
 
 Step2: The operations are to be performed strictly in the order: Division, Multiplication, Addition and Subtraction
 
+## Mensuration
+
+
+
 ## Alligation or Mixture
 
 **Important formula : **
