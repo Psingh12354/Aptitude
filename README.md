@@ -1800,3 +1800,17 @@ Take log both side
 
 and you get 1.187 approx value.
 ```
+
+### 68) The diameter of a wheel is 98 cm. The number of revolutions in which it will have to cover a distance of 1540 m is
+
+```
+Solution:
+circumference of an wheel=πd
+=22/7×98
+22×14
+=308cm =1 revolution
+distance covered
+1540×100=154000
+now,154000÷308
+500 rotations
+```
