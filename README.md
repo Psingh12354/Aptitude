@@ -1814,3 +1814,38 @@ distance covered
 now,154000÷308
 500 rotations
 ```
+
+### 69) An error 2% in excess is made while measuring the side of a square. The percentage of error in the calculated area of the square is:
+A. 2%
+
+B. 2.02%
+
+C. 4%
+
+D. 4.04%
+
+E. None of these
+
+Answer: Option D
+
+```
+100 cm is read as 102 cm.
+∴ A1 = (100 x 100) cm2 and A2 (102 x 102) cm2
+(A2 - A1) = [(102)2 - (100)2]
+              = (102 + 100) x (102 - 100)
+              = 404 cm2
+∴ Percentage error
+=(404100×100×100)%=4.04%
+```
+
+### 69) A copper wire when bent in the form of a square encloses an area of 484 sq cm if the same wire is bent in the form of a circle the area enclosed by it is
+
+```
+Area of the square=484cm 
+side-22cm
+perimeter=22*4=88cm
+circumfrence of cirlce is 2*pi*r=88
+r=14cm
+area=pi*r*r=616cm^2
+ 
+
