@@ -1,6 +1,6 @@
 ---
 
-<h1 align=center><b>Apptitude</b></h1>
+<h1 align=center><b>Aptitude</b></h1>
 
 ---
 
