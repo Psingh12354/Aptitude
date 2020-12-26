@@ -223,6 +223,15 @@ Step2: The operations are to be performed strictly in the order: Division, Multi
 
 - Sum in ap= nx(a+l)/2
 
+## Average
+
+- Avg of first n odd number = n
+
+- Avg of first n even number = n+1
+
+- Avg of n naturat number = (n+1)/2
+
+- Avg of number * total number = Sum
 ---
 
 <h2 align=center><b><i>Important Links</i></b></h2>
