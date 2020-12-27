@@ -248,6 +248,8 @@ Step2: The operations are to be performed strictly in the order: Division, Multi
 
 - [Negative Remainder](https://bodheeprep.com/remainder-theorem-concepts-tricks-questions-for-cat-exam)
 
+- [Eligibility test](https://www.tutorialspoint.com/reasoning/reasoning_eligibility_test_examples.htm)
+
 ---
 
 ---
