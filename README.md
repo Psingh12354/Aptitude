@@ -75,6 +75,20 @@ check number divisible if yes than original number is also divisible.
 
 Similary multiply it by 2 and instead addition subtract it.
 
+### Divisible by 17
+
+Multiply unit digit by 5 and substract that multiplied value with rest digit if this multile than the number is divisible by 17.
+
+**eg :** 272 iv by 17
+
+**Step 1-**
+
+mul 2*5=10
+**Step 2- **
+
+27-10=17
+17 is divisble by 17 hence 272 is divisble by 17.
+
 ## Age Base Questions
 
 ![](https://github.com/Psingh12354/Apptitude/blob/main/AgeBase.jpeg)
