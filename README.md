@@ -1872,5 +1872,16 @@ perimeter=22*4=88cm
 circumfrence of cirlce is 2*pi*r=88
 r=14cm
 area=pi*r*r=616cm^2
- 
+ ```
+
+### 70) When two dice are rolled, what is the probability that the sum is either 5 or 8?
+
+Solution
+```
+P(A)=1/9
+P(B)=1/6
+P(C)=26/36=13/18
+Apply GP
+you get 2/5 ans
+```
 
