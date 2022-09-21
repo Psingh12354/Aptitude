@@ -99,13 +99,11 @@ mul 2*5=10
 
 ## Clock
 
-### 1. Minute Spaces
+1. Minute Spaces
 
 The face or dial of clock is a circle whose circumference is divided into 60 equal parts, named minute spaces.
 
-### 2. Hour hand and minute hand
-
-A clock has two hands. The smaller hand is called the hour hand or short hand and the larger one is called minute hand or long hand.
+2. Hour hand and minute hand, A clock has two hands. The smaller hand is called the hour hand or short hand and the larger one is called minute hand or long hand.
 
 3. In 60 minutes, minute hand gains 55 minute spaces over the hour hand.
 
@@ -123,6 +121,9 @@ A clock has two hands. The smaller hand is called the hour hand or short hand an
 
 9. Angle traced by minute hand in **60 min. = 360°**.
 
+10. Theta( aka Degree) = 30 X H- (11/2) X M
+
+11. Reflax Angle = 360 - Theta
 ## Probability
 
 ![](https://github.com/Psingh12354/Apptitude/blob/main/probability.PNG)
