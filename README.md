@@ -249,6 +249,8 @@ Step2: The operations are to be performed strictly in the order: Division, Multi
 - Avg of number * total number = Sum
 ---
 
+## Formulas and Tricks [](https://github.com/Psingh12354/Aptitude/blob/main/Formulas.jpeg)
+
 <h2 align=center><b><i>Important Links</i></b></h2>
 
 - [Population Based Question](https://www.math-shortcut-tricks.com/percentage-calculation-on-population-shortcut-tricks/)
